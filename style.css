@@ -1,0 +1,42 @@
+body
+{
+	text-align: center;
+	font-family: algerian;
+	background-image: linear-gradient(to left,#ED4C67,#751741,#ED4C67);
+    box-shadow: #d7a5dd;
+}
+span
+{
+	font-size: 20px;
+	color: rgb(197, 240, 128);
+}
+canvas
+{
+	background: pink;
+	border-radius: 40px;
+	border-style: double;
+	border-color: hotpink;
+	border-width: 5px;
+	align-content: center;
+}
+
+.btn{
+background-image: linear-gradient(to left,#65c7ce,#8dce67,#4c9fc0);
+box-shadow: rgb(20, 20, 20);
+border-radius: 20px;
+border-style: groove;
+font-size: large;
+color: indigo;
+}
+
+h3{
+  font-family:Lucida Calligraphy;
+  display: block;
+  font-size: 50px;
+  color: #f1ebe5;
+  text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
+  letter-spacing: -4px;
+}
+h4{
+	color:plum;
+}
