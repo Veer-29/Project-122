@@ -40,7 +40,7 @@ function setup() {
   screen_width = window.innerWidth;
   screen_height = window.innerHeight;
   canvas = createCanvas(screen_width,screen_height-150);
-  canvas.position(0,150);
+  canvas.position(0,200);
 }
 
 function draw() {
@@ -67,4 +67,8 @@ function speak(){
 }
 function preload(){
   apple = loadImage("apple.png");
+}
+
+function clearcanvas(){
+    background("pink");
 }
